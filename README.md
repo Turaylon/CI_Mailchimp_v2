@@ -8,7 +8,9 @@ Installation
 ===============
 
 1) Exctract and copy the files in the root of your Codeigniter installation root folder.
+
 2) Modify the `application/config/mailchimp.php` file configuration.
+
 3) Load the library and use it.
 
 Example
